@@ -1,0 +1,2 @@
+# Revoked Licenses - CSP Software
+# Add license keys below to revoke them
